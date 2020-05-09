@@ -5,44 +5,66 @@ trait d'union) différentes règles sont à respecter pour l'accorder au
 pluriel. On accorde le mot composé selon la nature des mots qui le
 composent et son sens. 
 
-Si le mot est composé de :
-**VERBE+NOM** -> le verbe reste invariable et le nom 
-prend la marque du pluriel selon le sens.
+## VERBE+NOM
 
-_Exemples_ : des chasse-neige, des tire-bouchons, des couvre-pieds,
+le verbe reste invariable et le nom prend la marque du pluriel selon
+le sens.
+
+_Exemples: des chasse-neige, des tire-bouchons, des couvre-pieds,
 un sèche-cheveux, un porte-avions, des porte-monnaie (qui transportent
-la monnaie), des abat-jour
+la monnaie), des abat-jour_
 
-**NOM+NOM** -> les deux noms prennent la marque du pluriel.
 
-_Exemples_ : des choux-fleurs, des sourds-muets mais des timbres-poste
+## VERBE+NOM
+
+Le verbe reste invariable et le nom prend la marque du pluriel selon
+le sens.
+
+_Exemples : des chasse-neige, des tire-bouchons, des couvre-pieds,
+un sèche-cheveux, un porte-avions, des porte-monnaie (qui transportent
+la monnaie), des abat-jour_
+
+## NOM+NOM
+
+Les deux noms prennent la marque du pluriel.
+
+_Exemples : des choux-fleurs, des sourds-muets mais des timbres-poste
 (car on sous-entend de la poste), des stations-service (pour le service)
-et des pauses-café (pour prendre le café).
+et des pauses-café (pour prendre le café)_
 
-**NOM+ADJECTIF ou ADJECTIF+NOM** -> les deux prennent la marque du
-pluriel
-_Exemples_ : des coffres-forts, des grands-mères, des beaux-frères,
-des plates-bandes
+## NOM+ADJECTIF ou ADJECTIF+NOM
 
-**PRÉFIXE+NOM ou PRÉFIXE+ADJECTIF** -> seuls le nom ou l'adjectif 
-prennent la marque du pluriel, le préfixe est invariable.
+Les deux prennent la marque du pluriel
+_Exemples : des coffres-forts, des grands-mères, des beaux-frères,
+des plates-bandes_
 
-_Exemples_ : des Anglo-saxons, des micro-ondes, des films 
-post-apocalyptiques
+## PRÉFIXE+NOM ou PRÉFIXE+ADJECTIF
 
-**ADVERBE+NOM** -> l'adverbe reste invariable.
+Seuls le nom ou l'adjectif prennent la marque du pluriel, le préfixe est
+invariable.
 
-_Exemples_ : des en-têtes, des arrière-boutiques, des avant-gardes
-mais des après-midi (car il y a un seul midi dans la journée)
+_Exemples : des Anglo-saxons, des micro-ondes, des films 
+post-apocalyptiques_
 
-**VERBE+VERBE** -> les verbes restent invariables.
+## ADVERBE+NOM
 
-_Exemples_ : des savoir-faire, des savoir-être, des laissez-passer, 
-des va-et-vient
+L'adverbe reste invariable.
 
-**CONTENANT UNE PRÉPOSITION** -> Si le nom composé comprend une 
-préposition, seul le premier nom prend la marque du pluriel.
+_Exemples : des en-têtes, des arrière-boutiques, des avant-gardes
+mais des après-midi (car il y a un seul midi dans la journée)_
 
-_Exemples_ : des arcs-en-ciel, des chefs-d'oeuvre
+## VERBE+VERBE
 
-_Exceptions_ : des pince-sans-rire, des pot-au-feu, des tête-à-tête
+Les verbes restent invariables.
+
+_Exemples : des savoir-faire, des savoir-être, des laissez-passer, 
+des va-et-vient_
+
+## CONTENANT UNE PRÉPOSITION
+
+Si le nom composé comprend une préposition, seul le premier nom prend la
+marque du pluriel.
+
+_Exemples : des arcs-en-ciel, des chefs-d'oeuvre_
+
+_Exceptions : des pince-sans-rire, des pot-au-feu, des tête-à-tête_
