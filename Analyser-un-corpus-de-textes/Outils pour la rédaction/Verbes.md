@@ -13,15 +13,18 @@
 | Préciser| S'insurger que | | | | |
 | Compléter| | | | | |
 
-## Des connecteurs logiques
+## Des relations logiques
 | Addition ou gradation | Parallèle ou comparaison | Concession | Opposition | Cause | Conséquence |
 | --- | --- | --- | --- | --- | --- |
-| Ajoute un argument ou un exemple nouveau aux précédents | Établit un rapprochement entre deux faits | De même, de la même manière, ainsi que, comme | Constate des faits ou des arguments opposés tout en maintenant son opinion | Oppose deux faits souvent pour mettre en valeur l’un d’entre eux | Expose l’origine, la raison d’un fait | Énonce le résultat, l’aboutissement d’un fait ou d’une idée |
-
-
-| Malgré, sans doute, en dépit de, bien que, quoique |
-| **** | --- |  | Mais, au contraire, cependant, pourtant, en revanche, tandis que, alors que, néanmoins, toutefois, or |
-| **** | --- |  | Car, en effet, puisque, parce que, étant donné que , du fait que, c’est que, non que |
-| **** | --- |  | Donc, par conséquent, en conséquence, aussi, de sorte que, à tel point que, si bien que, de là, par suite, d’où, dès lors |
-
-| Ajoute un argument ou un exemple nouveau aux précédents | Et, de plus, en outre, par ailleurs, surtout, ensuite, enfin, d’une part/d’autre part, non seulement, mais encore |
+| _Ajoute un argument ou un exemple nouveau aux précédents_ | _Établit un rapprochement entre deux faits_ | _Constate des faits ou des arguments opposés tout en maintenant son opinion_ | _Oppose deux faits souvent pour mettre en valeur l’un d’entre eux | Expose l’origine, la raison d’un fait | Énonce le résultat, l’aboutissement d’un fait ou d’une idée_ |
+| Et | De même | Malgré | Mais | Car | Donc |
+| De plus | De la même manière | Sans doute | Au contraire | En effet | Par conséquent |
+| En outre | Ainsi que | En dépit de | Cependant | Puisque | En conqéquence |
+| Par ailleurs | Comme | Bien que | Pourtant | Parce que | Aussi |
+| Surtout | Quoique | En revanche | Étant donné que | De sorte que |
+| Ensuite | | Tandis que | Du fait que | À tel point que |
+| Enfin | | Alors que | C'est que | Si bien que |
+| D'une part… d'autre part… | | Néanmoins | Non que | De là |
+| Non seulement | | Toutefois | | Par suite |
+| Mais encore | | | Or | | D'où |
+| | | | | | Dès lors |
