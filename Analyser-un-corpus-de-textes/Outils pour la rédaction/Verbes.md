@@ -21,10 +21,10 @@
 | De plus | De la même manière | Sans doute | Au contraire | En effet | Par conséquent |
 | En outre | Ainsi que | En dépit de | Cependant | Puisque | En conqéquence |
 | Par ailleurs | Comme | Bien que | Pourtant | Parce que | Aussi |
-| Surtout | Quoique | En revanche | Étant donné que | | De sorte que |
-| Ensuite | | Tandis que | Du fait que | | À tel point que |
-| Enfin | | Alors que | C'est que | | Si bien que |
-| D'une part… d'autre part… | | Néanmoins | Non que | | De là |
+| Surtout | | Quoique | En revanche | Étant donné que | De sorte que |
+| Ensuite | | | Tandis que | Du fait que | À tel point que |
+| Enfin | | | Alors que | C'est que | Si bien que |
+| D'une part… d'autre part… | | | Néanmoins | Non que | De là |
 | Non seulement | | | Toutefois | | Par suite |
 | Mais encore | | | Or | | D'où |
 | | | | | | Dès lors |
