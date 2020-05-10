@@ -10,6 +10,7 @@ sympathie, colère, indignation…).
 On appelle vocabulaire **évaluatif** l’ensemble des mots impliquant un
 jugement de valeur de celui qui s’exprime. Ces mots sont valorisants ou
 dévalorisants. 
+
 On appelle **modalisateurs** les mots ou expression signalant le degré
 de certitude de celui qui s’exprime aux idées qu’il formule. Ils
 indiquent si ces idées sont vraies, douteuses ou fausses. La valeur des
