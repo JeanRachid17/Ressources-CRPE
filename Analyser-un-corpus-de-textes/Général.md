@@ -7,10 +7,10 @@ corpus. L’analyse peut prendre la forme d’une analyse linéaire ou d’un
 écrit synthétique. Le but de l’exercice n’est pas de savoir repérer
 toutes les figures de style ou de produire une analyse poussée des
 textes. Le but est pour le correcteur de savoir si :
-1. nous comprenons ce que nous lisons ;
-2. nous savons organiser notre pensée ;
-3. nous savons écrire (orthographe et syntaxe) ;
-4. nous savons justifier nos choix (argumentation autour d’une
+* nous comprenons ce que nous lisons ;
+* nous savons organiser notre pensée ;
+* nous savons écrire (orthographe et syntaxe) ;
+* nous savons justifier nos choix (argumentation autour d’une
 problématique choisie)
 
 Il vaut mieux reformuler la consigne en problématique plutôt que d’en
