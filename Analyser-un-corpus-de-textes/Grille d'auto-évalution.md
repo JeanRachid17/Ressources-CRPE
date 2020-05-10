@@ -7,6 +7,7 @@
 | Problématique bien déterminée | | |
 | Lien explicite entre les auteurs, le dossier et le problème posé | | |
 | Annonce du plan | | |
+| --- | --- | --- |
 | Développement | Oui | Non |
 | --- | --- | --- |
 | Des parties distinctes par un espace blanc | | |
@@ -15,6 +16,7 @@
 | Juste interprétation des propos | | |
 | Mise en corrélation des propos (et non juxtaposition) | | |
 | Reformulation des idées | | |
+| --- | --- | --- |
 | Conclusion | Oui | Non |
 | --- | --- | --- |
 | Qualité de l’expression | | |
