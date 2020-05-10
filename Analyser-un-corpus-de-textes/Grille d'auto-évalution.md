@@ -2,11 +2,11 @@
 | Introduction | Oui | Non |
 | --- | --- | --- |
 | Concise | | |
-| Présentation du thème | | |
-| Présentation des auteurs et des sources | | |
-| Problématique bien déterminée | | |
-| Lien explicite entre les auteurs, le dossier et le problème posé | | |
-| Annonce du plan | | |
+| Présentation du thème                                                        | | |
+| Présentation des auteurs et des sources                                      | | |
+| Problématique bien déterminée                                                | | |
+| Lien explicite entre les auteurs, le dossier et le problème posé             | | |
+| Annonce du plan                                                              | | |
 
 | Développement | Oui | Non |
 | --- | --- | --- |
@@ -15,12 +15,12 @@
 | Un plan dynamique témoignant d’une juste compréhension des idées clés | | |
 | Juste interprétation des propos | | |
 | Mise en corrélation des propos (et non juxtaposition) | | |
-| Reformulation des idées | | |
+| Reformulation des idées                                                      | | |
 
 | Conclusion | Oui | Non |
 | --- | --- | --- |
-| Qualité de l’expression | | |
+| Qualité de l’expression                       | | |
 | Orthographe maîtrisée | | |
-| Qualité de la présentation matérielle de l’écriture | | |
+| Qualité de la présentation matérielle de l’écriture                          | | |
 | Référence aux auteurs | | |
 | Longueur respectée | | |
