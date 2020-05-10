@@ -20,7 +20,7 @@ gagnés avec une production aérée, lisible, des phrases courtes et
 claires. 
 
 J'ajoute que les compétences que nous utilisons pour réaliser cet
-exercice correspond aux champs d'apprentissage **Lecture et
+exercice correspondent aux champs d'apprentissage **Lecture et
 Compréhension** et **Écriture** des programmes de français. Il faut
 toujours garder en tête que chaque épreuve a pour but d'évaluer nos
 compétences en tant que futur enseignant. Si nous ne comprenons pas ce
