@@ -54,7 +54,7 @@ Cour."_
 
 ## Les figures de sonorité
 
--ALLITÉRATION : consiste en la répétition d’une même consonne dans une
+- ALLITÉRATION : consiste en la répétition d’une même consonne dans une
 phrase/vers _Exemple : « Pour qui sont ces serpents qui sifflent sur vos
 têtes ? »_
 - ASSONANCE : consiste en la répétition d’une même voyelle dans une
